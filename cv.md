@@ -15,6 +15,7 @@ I am working in an IT company as a hardware engineer, but I have always had a pa
 - VS Code
 - Python Basic
 - Git, GitHub
+
 ## Code Example
 ```js
 function disemvowel(str) {
@@ -23,6 +24,7 @@ function disemvowel(str) {
 ```
 ## Courses
 - RS School Course "JavaScript/Front-end 2023Q1" in progress
+
 ## Languages
 - **English:** intermediate
 - **Russian:** native
