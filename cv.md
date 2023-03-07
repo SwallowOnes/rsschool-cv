@@ -3,7 +3,7 @@
 ___
 ## Contacts information:
 **Phone:** +7-999-99-99  
-**E-mail:** jager.selion@gmail.com 
+**E-mail:** jager.selion@gmail.com  
 **Telegram:** @username  
 **Discord:** SwallowOnes  
 ## About me
