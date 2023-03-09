@@ -1,2 +1,2 @@
 # rsschool-cv
-https://SwallowOnes.github.io/rsschool-cv/cv
+https://SwallowOnes.github.io/rsschool-cv/
